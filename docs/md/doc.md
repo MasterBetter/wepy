@@ -9,7 +9,7 @@ WePY的安装或更新都通过`npm`进行。
 **全局安装或更新WePY命令行工具**
 
 ```bash
-npm install wepy-cli -g
+sudo npm install wepy-cli -g --unsafe-perm
 ```
 
 **在开发目录中生成Demo开发项目, 1.7.0之后版本请移步[wepy-cli文档](./doc.cli.md)**
